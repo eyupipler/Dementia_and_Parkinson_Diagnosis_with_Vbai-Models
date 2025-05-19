@@ -1,2 +1,9 @@
 streamlit
 pandas
+streamlit
+pandas
+gradio
+torch
+torchvision
+huggingface_hub
+Pillow
